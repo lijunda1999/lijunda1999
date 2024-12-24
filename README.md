@@ -26,7 +26,10 @@ Feel free to explore my repositories, and let me know your thoughts or suggestio
 ---
 
 📫 **Let’s Connect**  
-If you have any questions or suggestions, feel free to contact me through [GitHub Issues](https://github.com/lijunda1999/) or other channels.
+If you have any questions or suggestions, feel free to contact me through: 
+- [GitHub Issues](https://github.com/lijunda1999/).
+- **Or Email:** [qaulijunda@163.com](mailto:qaulijunda@163.com)
+
 
 🔗 **Let’s grow together!**  
 🌟 Don’t forget to give a ⭐ to my projects if you find them useful!
